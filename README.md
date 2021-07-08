@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to work upon some **Open Source Projects.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sakshi-mittal-661a4b197/**
+- 📫 Reach me out on **https://www.linkedin.com/in/sakshi-mittal-661a4b197/**
 
 - 📄 Check out my Resume [https://github.com/sakshimittal27/resume/blob/main/Sakshi%20Mittal's%20Resume.pdf](https://github.com/sakshimittal27/resume/blob/main/Sakshi%20Mittal's%20Resume.pdf)
 
