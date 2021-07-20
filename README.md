@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Mittal</h1>
-<h3 align="center">A passionate problem solver and developer from India</h3>
+<h3 align="center">A passionate problem solver and developer</h3>
 
 - 🔭 I’m currently a 3rd year student at [The LNM Institute of Information Technology, Jaipur.](https://www.lnmiit.ac.in/)
 
