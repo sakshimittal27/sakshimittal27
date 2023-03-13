@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/sakshi-mittal-661a4b197/**
 
-- 📄 Check out my Resume [https://github.com/sakshimittal27/resume/blob/main/Sakshi_Resume.pdf](https://github.com/sakshimittal27/resume/blob/main/Sakshi_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakshim12775462" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshim12775462" height="30" width="40" /></a>
